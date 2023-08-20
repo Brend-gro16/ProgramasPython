@@ -1,7 +1,7 @@
 # Programas de la materia de Computacion Aplicada
 
 Brenda Del Rio Guerrero
-brenda.delrio.gro@gmail.com
+bren.gro128@gmail.com
 
 ## Actividad 1       
 - Programa 1
