@@ -10,9 +10,11 @@ bren.gro128@gmail.com
 - P04-Paga-Trabajador
 
 ## Actividad 2 
-- 
--
--
+- P05-Promedio-de-Calificaciones
+- P06-Operaciones-matematicas
+- P07-Funciones-Trigonometricas
+- P08-Dividir-Cifras
+
 ## Actividad 3
 -
 -
