@@ -15,7 +15,12 @@ bren.gro128@gmail.com
 - P07-Funciones-Trigonometricas
 - P08-Dividir-Cifras
 
-## Actividad 3
--
--
+## Tarea 1 - Elementos Basicos
+- P09-Hipotenusa-Triangulo
+- P10-Tercer-Angulo
+- P11-Convertir-Temperatura
+- P12-Volumen-Cilindro
+- P13-Calculo-Tiempo
+- P14-Numero-Suerte
+- P14.1-Numero-Suerte
 
