@@ -24,3 +24,8 @@ bren.gro128@gmail.com
 - P14-Numero-Suerte
     - P14.1-Numero-Suerte
 
+## Actividad 3
+- P15-Verificar-Numero
+- P16-Verificar-Suma
+- P17-Convertir-Temperatura
+- P18-Paga-Trabajador-V2
