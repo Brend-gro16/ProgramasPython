@@ -29,3 +29,9 @@ bren.gro128@gmail.com
 - P16-Verificar-Suma
 - P17-Convertir-Temperatura
 - P18-Paga-Trabajador-V2
+
+## Actividad 4
+- P19-Verificar-suma
+- P20-Ley-Newton
+- P21-Aceptar-estudiante
+- P22-Tipo-Angulo
