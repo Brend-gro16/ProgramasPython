@@ -35,3 +35,12 @@ bren.gro128@gmail.com
 - P20-Ley-Newton
 - P21-Aceptar-estudiante
 - P22-Tipo-Angulo
+
+## Tarea 2- Ejecucion condicional
+- P23-Numeros-Consecutivos
+- P24-Numero-Mayor
+- P25-Dia-de-la-Semana
+- P26-Numeros-Romanos
+- P27-Calculo-de-Notas
+- P28-Aceptar-Estudiante-v2
+
