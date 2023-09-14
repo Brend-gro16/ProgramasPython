@@ -44,3 +44,9 @@ bren.gro128@gmail.com
 - P27-Calculo-de-Notas
 - P28-Aceptar-Estudiante-v2
 
+## Actividad 5
+- P29-Numeros-1-100
+- P30-Numeros-100-1
+- P31-Numeros-1-200-10  
+- P32-Numeros-Suma-100  
+- P33-Conteo-Numeros
