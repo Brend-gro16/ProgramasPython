@@ -50,3 +50,9 @@ bren.gro128@gmail.com
 - P31-Numeros-1-200-10  
 - P32-Numeros-Suma-100  
 - P33-Conteo-Numeros
+
+## Actividad 6
+- P34-Tabla-Conversion
+- P35-Conjetura-Collatz
+- P36-Tabla-Multiplicar
+- P37-Tabla-Multiplicar-v2
