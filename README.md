@@ -65,7 +65,7 @@ bren.gro128@gmail.com
 - P42-Conversion-Temperatura
 - P43-Numero-Mayor
 
-## Primer Examen Parcial
+## Primer Examen Parcial (20-Sep)
 - P44-Primer-Examen-Parcial
 
 
