@@ -56,3 +56,11 @@ bren.gro128@gmail.com
 - P35-Conjetura-Collatz
 - P36-Tabla-Multiplicar
 - P37-Tabla-Multiplicar-v2
+
+## Actividad 7
+- P38-Impares-Ascendente
+- P39-Pares-Descendente
+- P40-Promedio-Suma
+- P41-Suma-200
+- P42-Conversion-Temperatura
+- P43-Numero-Mayor
