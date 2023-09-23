@@ -85,7 +85,7 @@ while (True):
         x = 800
         sub= x*can
         if sub >= 5000:
-            total = sub * (80/100)
+            total = sub * (90/100)
         elif sub < 5000:
             total=sub   
         print('\n--------------TOTAL------------------')
@@ -96,7 +96,7 @@ while (True):
         x = 1000
         sub= x*can
         if sub >= 5000:
-            total = sub * (80/100)
+            total = sub * (90/100)
         elif sub < 5000:
             total=sub   
         print('\n--------------TOTAL------------------')
@@ -107,7 +107,7 @@ while (True):
         x = 1100
         sub= x*can
         if sub >= 5000:
-            total = sub * (80/100)
+            total = sub * (90/100)
         elif sub < 5000:
             total=sub   
         print('\n--------------TOTAL------------------')
@@ -120,7 +120,7 @@ while (True):
         x = 1100
         sub= x*can
         if sub >= 5000:
-            total = sub * (80/100)
+            total = sub * (95/100)
         elif sub < 5000:
             total=sub   
         print('\n--------------TOTAL------------------')
@@ -131,7 +131,7 @@ while (True):
         x = 1300
         sub= x*can
         if sub >= 5000:
-            total = sub * (80/100)
+            total = sub * (95/100)
         elif sub < 5000:
             total=sub   
         print('\n--------------TOTAL------------------')     
@@ -142,7 +142,7 @@ while (True):
         x = 1400
         sub= x*can
         if sub >= 5000:
-            total = sub * (80/100)
+            total = sub * (95/100)
         elif sub < 5000:
             total=sub   
         print('\n--------------TOTAL------------------')
