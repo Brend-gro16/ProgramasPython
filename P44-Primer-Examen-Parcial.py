@@ -15,6 +15,7 @@
 #Al final mostrar un resumen con los datos calculados de la venta.
 #Al terminar de procesar las ventas mostrar el total de ventas del día 
 
+vt = 0
 
 while (True):
     
@@ -22,6 +23,8 @@ while (True):
     sub=0
     total = float
     total =0
+    des = float = 0
+   
 
     import os
 
@@ -45,39 +48,43 @@ while (True):
 
     op2= int(input ('\n\tElige el tipo de paquete: '))
     can= int(input('\n ¿Que cantidad de boletos?: '))
+    vt=vt+can
 
     if op1 == 1 and op2 == 1:
         x = 700
         sub= x*can
         if sub >= 5000:
-            total = sub * (80/100)
+            des = sub * (20/100)
+            total = sub - des
         elif sub < 5000:
             total=sub   
         print('\n--------------TOTAL------------------')
         print (f'\n\n [1]Alumno....[1]Solo Conferencias...{can} boletos')
-        print(f'*****El precio total por es: {total}')
+        print(f'\n\t--Subtotal: {sub}\n\t--Descuento: {des}\n\n\t\t***Total:{total}***')
         
     if op1 == 1 and op2 == 2:
         x = 900
         sub= x*can
         if sub >= 5000:
-            total = sub * (80/100)
+            des = sub * (20/100)
+            total = sub - des
         elif sub < 5000:
             total=sub   
         print('\n--------------TOTAL------------------')
         print (f'\n\n [1]Alumno....[2]Con Eventos Sociales...{can} boletos')    
-        print(f'*****El precio total es: {total}')
+        print(f'\n\t--Subtotal: {sub}\n\t--Descuento: {des}\n\n\t\t***Total:{total}***')
 
     if op1 == 1 and op2 == 3:
         x = 1000
         sub= x*can
         if sub >= 5000:
-            total = sub * (80/100)
+            des = sub * (20/100)
+            total = sub - des
         elif sub < 5000:
             total=sub   
         print('\n--------------TOTAL------------------')
         print (f'\n\n[1]Alumno....[3]Con Kit de Acceso...{can} boletos')
-        print(f'\n\n *****El precio total es: {total}')
+        print(f'\n\t--Subtotal: {sub}\n\t--Descuento: {des}\n\n\t\t***Total:{total}***')
         
     #Trabajador
 
@@ -85,34 +92,37 @@ while (True):
         x = 800
         sub= x*can
         if sub >= 5000:
-            total = sub * (90/100)
+            des = sub * (10/100)
+            total = sub - des
         elif sub < 5000:
             total=sub   
         print('\n--------------TOTAL------------------')
         print (f'\n\n [2]Trabajador....[1]Solo Conferencias...{can} boletos')
-        print(f'*****El precio total por es: {total}')
+        print(f'\n\t--Subtotal: {sub}\n\t--Descuento: {des}\n\n\t\t***Total:{total}***')
         
     if op1 == 2 and op2 == 2:
         x = 1000
         sub= x*can
         if sub >= 5000:
-            total = sub * (90/100)
+             des = sub * (10/100)
+             total = sub - des
         elif sub < 5000:
             total=sub   
         print('\n--------------TOTAL------------------')
         print (f'\n\n [2]Trabajador....[2]Con Eventos Sociales...{can} boletos')    
-        print(f'*****El precio total es: {total}')
+        print(f'\n\t--Subtotal: {sub}\n\t--Descuento: {des}\n\n\t\t***Total:{total}***')
 
     if op1 == 2 and op2 == 3:
         x = 1100
         sub= x*can
         if sub >= 5000:
-            total = sub * (90/100)
+             des = sub * (10/100)
+             total = sub - des
         elif sub < 5000:
             total=sub   
         print('\n--------------TOTAL------------------')
         print (f'\n\n[2]Trabajador....[3]Con Kit de Acceso...{can} boletos')
-        print(f'\n\n *****El precio total es: {total}')
+        print(f'\n\t--Subtotal: {sub}\n\t--Descuento: {des}\n\n\t\t***Total:{total}***')
         
     # Docente
 
@@ -120,41 +130,43 @@ while (True):
         x = 1100
         sub= x*can
         if sub >= 5000:
-            total = sub * (95/100)
+            des = sub * (5/100)
+            total = sub - des
         elif sub < 5000:
             total=sub   
         print('\n--------------TOTAL------------------')
         print (f'\n\n [3]Docente....[1]Solo Conferencias...{can} boletos')
-        print(f'*****El precio total por es: {total}')
+        print(f'\n\t--Subtotal: {sub}\n\t--Descuento: {des}\n\n\t\t***Total:{total}***')
         
     if op1 == 3 and op2 == 2:
         x = 1300
         sub= x*can
         if sub >= 5000:
-            total = sub * (95/100)
+            des = sub * (5/100)
+            total = sub - des
         elif sub < 5000:
             total=sub   
         print('\n--------------TOTAL------------------')     
         print (f'\n\n [3]Docente....[2]Con Eventos Sociales...{can} boletos')    
-        print(f'*****El precio total es: {total}')
-
+        print(f'\n\t--Subtotal: {sub}\n\t--Descuento: {des}\n\n\t\t***Total:{total}***')
     if op1 == 3 and op2 == 3:
         x = 1400
         sub= x*can
         if sub >= 5000:
-            total = sub * (95/100)
+            des = sub * (5/100)
+            total = sub - des
         elif sub < 5000:
             total=sub   
         print('\n--------------TOTAL------------------')
         print (f'\n\n[3]Docente....[3]Con Kit de Acceso...{can} boletos')
-        print(f'\n\n *****El precio total es: {total}')
-    
+        print(f'\n\t--Subtotal: {sub}\n\t--Descuento: {des}\n\n\t\t***Total:{total}***')
         
     res=input('\n ¿Deseas hacer otro pedido(S/N)? ')
     if res.upper()=='N':
         break   
 
 print("\n\n***Fin del Proceso****")
+print (f'\n\nBoletos vendidos: {vt}')
 
 
 
