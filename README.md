@@ -68,4 +68,11 @@ bren.gro128@gmail.com
 ## Primer Examen Parcial (20-Sep)
 - P44-Primer-Examen-Parcial
 
+## Actividad 7
+- P45-Numeros-1-100
+- P46-Numeros-100-1
+- P47-Arriba-Abajo
+- P48-Suma-Pares-Impares
+- P49-Suma-Numeros
+
 
