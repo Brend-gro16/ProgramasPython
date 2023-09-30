@@ -56,7 +56,7 @@ while (True):
         if sub >= 5000:
             des = sub * (20/100)
             total = sub - des
-        elif sub < 5000:
+        elif sub < 5000: 
             total=sub   
         print('\n--------------TOTAL------------------')
         print (f'\n\n [1]Alumno....[1]Solo Conferencias...{can} boletos')
