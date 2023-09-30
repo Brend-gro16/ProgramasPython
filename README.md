@@ -82,4 +82,11 @@ bren.gro128@gmail.com
 - P53-Piramide-Caracter
 - P54-Factorial-Numeros
 
+## Tarea 4-Ejecucion-repetitiva-for
+- P55-Numeros-10en10
+- P56-Suma-pares-2n
+- P57-Secuencia-numeros-1
+- P58-Secuencia-numeros-2
+- P59-Secuencia-Terminos-1
+
 
