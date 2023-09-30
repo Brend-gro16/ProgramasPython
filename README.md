@@ -75,4 +75,11 @@ bren.gro128@gmail.com
 - P48-Suma-Pares-Impares
 - P49-Suma-Numeros
 
+## Actividad 8
+- P50-Factorial
+- P51-Tabla-Multiplicar
+- P52-Tablas-Multiplicar-V2
+- P53-Piramide-Caracter
+- P54-Factorial-Numeros
+
 
