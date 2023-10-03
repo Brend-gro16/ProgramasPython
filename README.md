@@ -89,4 +89,11 @@ bren.gro128@gmail.com
 - P58-Secuencia-numeros-2
 - P59-Secuencia-Terminos-1
 
+## Actividad 9
+- P60–Acceder-Lista
+• P61–Cambiar-Lista
+• P62–Agregar-Lista
+• P63–Remover-Lista
+• P64–Iterar-Lista
+
 
