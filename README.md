@@ -91,9 +91,9 @@ bren.gro128@gmail.com
 
 ## Actividad 9
 - P60–Acceder-Lista
-• P61–Cambiar-Lista
-• P62–Agregar-Lista
-• P63–Remover-Lista
-• P64–Iterar-Lista
+- P61–Cambiar-Lista
+- P62–Agregar-Lista
+- P63–Remover-Lista
+- P64–Iterar-Lista
 
 
