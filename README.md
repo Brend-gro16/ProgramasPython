@@ -96,4 +96,8 @@ bren.gro128@gmail.com
 - P63–Remover-Lista
 - P64–Iterar-Lista
 
-
+## Tarea 5-Listas
+- P65-Acceder-Lista
+- P66-Modifcar-Lista
+- P67-Remover-Lista
+- P68-Lista-Promedio
