@@ -106,3 +106,10 @@ bren.gro128@gmail.com
 - P80–Estudiante
 - P81–Calificaciones
 - P82–Nombres-Edades
+
+## Tarea 6- Diccionarios
+- P83-Crear-Acceder-Diccionario
+- P84-Modificar-Diccionario
+- P85-Agregar-Diccionario
+- P86-Eliminar-Diccionario
+- P87-Procesar-Diccionario
