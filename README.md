@@ -101,3 +101,8 @@ bren.gro128@gmail.com
 - P66-Modifcar-Lista
 - P67-Remover-Lista
 - P68-Lista-Promedio
+
+## Actividad 10
+- P80–Estudiante
+- P81–Calificaciones
+- P82–Nombres-Edades
