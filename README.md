@@ -113,3 +113,7 @@ bren.gro128@gmail.com
 - P85-Agregar-Diccionario
 - P86-Eliminar-Diccionario
 - P87-Procesar-Diccionario
+
+## Actividad 11
+- P86–Trabajando-Conjuntos
+- P87-Operaciones-Conjuntos
