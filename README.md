@@ -115,5 +115,5 @@ bren.gro128@gmail.com
 - P87-Procesar-Diccionario
 
 ## Actividad 11
-- P86–Trabajando-Conjuntos
-- P87-Operaciones-Conjuntos
+- P76–Trabajando-Conjuntos
+- P77-Operaciones-Conjuntos
