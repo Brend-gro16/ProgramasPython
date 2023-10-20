@@ -117,3 +117,8 @@ bren.gro128@gmail.com
 ## Actividad 11
 - P76–Trabajando-Conjuntos
 - P77-Operaciones-Conjuntos
+
+
+
+## Segundo Examen Parcial (19-Oct)
+- P90-Segundo-Examen-Parcial
