@@ -123,4 +123,4 @@ bren.gro128@gmail.com
 - P89-Numeros
 
 ## Segundo Examen Parcial (19-Oct)
-- P90-Segundo-Examen-Parcial
+- P90-Segundo-Examen-arcial
