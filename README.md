@@ -118,7 +118,9 @@ bren.gro128@gmail.com
 - P76–Trabajando-Conjuntos
 - P77-Operaciones-Conjuntos
 
-
+## Tarea 7- Repaso-Conjuntos
+- P88-Personas
+- P89-Numeros
 
 ## Segundo Examen Parcial (19-Oct)
 - P90-Segundo-Examen-Parcial

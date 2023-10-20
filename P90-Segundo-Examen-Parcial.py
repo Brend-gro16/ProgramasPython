@@ -76,7 +76,7 @@ while (True):
     res=input('\n ¿Deseas hacer otro pedido(S/N)? ')
     if res.upper()=='N': break   
     
-print("\n\n***Fin del Proceso****")
+print("\n\n****Fin del Proceso*****")
             
 
 
