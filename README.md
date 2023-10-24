@@ -124,3 +124,21 @@ bren.gro128@gmail.com
 
 ## Segundo Examen Parcial (19-Oct)
 - P90-Segundo-Examen-arcial
+
+## Actividad 12
+- P91-Funcion
+- P92-Funcion-Parametro
+- P93-Funcion-Parametros
+- P94-Funcion-Mas-Parametros
+- P95-Funcion-Parametros-Nombre
+- P96-Funcion-Parametros-Por-Defecto
+- P97-Funcion-Suma-Numeros
+- P98 - Tabla-Multiplicar
+- P99 - Cuadro-Carácter
+- P100 - Numero-Mayor
+- P101 - Estación-del-Año
+- P102 - Temperatura
+- P103 - Suma-dígitos
+- P104 - Factorial
+- P105 - Calificación-con-Letra
+- P106 - Suma-Números-en-un-Rango
