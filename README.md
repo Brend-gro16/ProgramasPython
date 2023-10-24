@@ -142,3 +142,9 @@ bren.gro128@gmail.com
 - P104 - Factorial
 - P105 - Calificación-con-Letra
 - P106 - Suma-Números-en-un-Rango
+
+## Tarea 8 - Funciones Parte 1
+- P107-Numero-Menor
+- P108-Dia-Semana
+- P109-Medidas-Longitud
+- P110-Suma-Pares-Impares
