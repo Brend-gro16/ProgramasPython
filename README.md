@@ -148,3 +148,15 @@ bren.gro128@gmail.com
 - P108-Dia-Semana
 - P109-Medidas-Longitud
 - P110-Suma-Pares-Impares
+
+## Actividad 13
+- P111-Suma 
+- P112-Pares
+- P113-Mayor-Menor
+- P114-Mayores-Promedio
+- P115-Pares-Impares
+- P116-Aleatorios
+- P117-Nombres
+- P118Funciones
+- P119-Usa-Funciones
+- P120-Modulos-Integrados (pendiente)
