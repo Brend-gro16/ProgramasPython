@@ -35,3 +35,17 @@ def leer ():
         lista.append(n)
     return(lista)
 
+def sumarango(ini,fin):
+    s=0
+    for i in range(ini,fin+1):
+        s=s+i
+    return s
+
+def factorial(n):
+    listaf=[]
+    for n in listaf:
+        fac=1
+        for d in range(1,n+1):
+            fac*=int(d)
+        listaf.append(fac)
+    return listaf

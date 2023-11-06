@@ -160,3 +160,9 @@ bren.gro128@gmail.com
 - P118Funciones
 - P119-Usa-Funciones
 - P120-Modulos-Integrados (pendiente)
+
+## Tarea 9 - Funciones Parte 2
+
+- P121-Suma-Digitos-Lista
+- P123-Calcula-Factoriales
+- P124-Estadisticas-Basicas
