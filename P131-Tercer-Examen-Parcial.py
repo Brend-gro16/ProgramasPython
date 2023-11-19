@@ -39,8 +39,6 @@ class Categoria:
             if not jugador.becado:
                 total += self.costo
         return total
-
-
     def __str__(self):
         return f'Categorias -> [Nombre:{self.nombre}Rango:{self.rango}Costo:{self.costo}]'
     
