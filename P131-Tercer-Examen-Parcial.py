@@ -1,5 +1,5 @@
 import os;os.system('cls')
-import math
+
 
 print('***TERCER EXAMEN PARCIAL***')
 
