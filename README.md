@@ -123,7 +123,7 @@ bren.gro128@gmail.com
 - P89-Numeros
 
 ## Segundo Examen Parcial (19-Oct)
-- P90-Segundo-Examen-arcial
+- P90-Segundo-Examen-Parcial
 
 ## Actividad 12
 - P91-Funcion
@@ -179,3 +179,6 @@ bren.gro128@gmail.com
 
 ## Actividad 15
 - P130-Venta
+
+## Tercer Examen Parcial (13-Nov)
+- P131-Tercer-Examen-Parcial
